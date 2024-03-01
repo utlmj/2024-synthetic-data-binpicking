@@ -1,0 +1,16 @@
+# settings
+# <keyword> <value>
+
+imsize_h= 400                                           # height of images fed to network
+imsize_w= 400                                           # width of images fed to network
+traindir= /home/dataset/Train/    # directory of the trainingdata
+testdir= /home/dataset/Test/      # directory of the testdata
+
+modelnum= 46              # version number of the model
+learning_rate= 0.00001   #1e-5     # learning rate  
+weight_decay= 0.00000001  #1e-8      # weight decay
+epochs= 500
+pretrained= 1		# True or False
+
+batchsize= 6            # batchsize
+save_all_in=   /

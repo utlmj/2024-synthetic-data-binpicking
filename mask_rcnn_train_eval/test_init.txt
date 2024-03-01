@@ -1,0 +1,11 @@
+# settings
+# <keyword>=	<value>
+
+imsize_h= 400
+imsize_w= 400
+
+traindir= /Train/
+testdir= ./chicken_dataset/Test/
+
+folder= ./
+tmodel= 60_v46.torch

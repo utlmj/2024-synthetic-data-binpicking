@@ -1,0 +1,4 @@
+segmentation_model= ./60_v46.torch  # dir of segmentation .torch model, change to your own dir
+	
+n_classes= 2		# number of classes (# objects + background)
+n_views= 1

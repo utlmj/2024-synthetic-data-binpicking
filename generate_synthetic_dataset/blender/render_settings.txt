@@ -1,0 +1,29 @@
+# settings
+# <keyword>=	<value>
+
+num_scenes= 		1	# number of scenes
+num_obj_l= 		1	# lower bound for number of objects
+num_obj_h= 	  	2	# upper bound for number of objects
+
+num_cam_l= 		4	# lower bound for number of cameras
+num_cam_h= 		5	# upper bound for number of cameras
+
+num_lights_l= 		2	# number of light sources lbound
+num_lights_h=	  	4	# number of light sources ubound
+
+noise= 1 # random objects
+
+path=	\  # path of object file
+
+file_name1=    fillet1.blend     # has extra texture mods
+file_name2=    fillet2.blend     # has extra texture mods
+
+inner=			Object						
+shape=			Icosphere
+
+bake=		0			 	# 0 to not bake dynamics, 1 to bake the dynamics
+
+start_frame=	6		# first frame to be rendered, choose a suitable number
+
+out_path= \   # path to save images in
+

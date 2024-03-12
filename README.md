@@ -15,3 +15,7 @@ Scripts to train and evaluate Mask R-CNN using our data.
 
 ### pipeline
 The ROS implementation of the complete bin-picking pipeline
+
+## Video
+Supplementary video showcasing the bin-picking pipeline and additional results
+[![Supplementary video](https://img.youtube.com/vi/pvs2cBxpco0/1.jpg)](https://www.youtube.com/watch?v=pvs2cBxpco0)
